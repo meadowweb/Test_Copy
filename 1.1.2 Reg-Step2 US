@@ -2,7 +2,7 @@ New User?
 <a href="url">Register Here </a>
 <p> 
 <h1> Registration</h1>
-Please enter your account information.
+Please enter your <b>account information</b>.
 <br>
 --label-- Account Number
 <br><br>
