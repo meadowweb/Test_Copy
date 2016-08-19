@@ -1,1 +1,18 @@
-
+New User? 
+<a href="url">Register Here </a>
+<p> 
+<h1> Registration</h1>
+Please enter your account <b>information</b>.
+<br>
+--label-- Account Number
+<br><br>
+--ttip-- Please enter the last eight digits of your account number. You can find your account number on your invoice.
+<br><br>
+--error-- Invalid information entered.
+<br>
+<button type=”button”> Cancel</button>
+<button type=”button”> Verify</button>
+<br><br>
+Are you already registered? Click here to <a href="url">login</a>.
+<br><br>
+<a href="url">Support</a>
